@@ -9,3 +9,4 @@ Malgrange.docx
 # Editor-based HTTP Client requests
 /httpRequests/
 
+/target/classes/
