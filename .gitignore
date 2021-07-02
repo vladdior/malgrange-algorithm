@@ -10,3 +10,5 @@ Malgrange.docx
 /httpRequests/
 
 /target/classes/
+#byte-code files
+*.class
